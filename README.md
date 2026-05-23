@@ -1,6 +1,6 @@
 <h1>Hola, soy Diego Rodolico <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p>
-<img align="right" src="https://camo.githubusercontent.com/958df95703ef53e2517c75d59599761f2aa1cee6f036d73084cec87653fc1a58/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966">
+<img align="right" src="https://gifdb.com/images/high/homer-simpson-tapping-computer-with-walking-stick-9vothdaqn75sieum.webp" width = 450>
 Soy estudiante de licenciatura en informática y desarrollador de software. Me considero un solucionador de problemas que le apasiona crear soluciones elegantes, impactantes y bien elaboradas para desafíos del mundo real
 </p>
 
