@@ -1,7 +1,12 @@
 <h1>Hola, soy Diego Rodolico <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p>
 <img align="right" src="https://gifdb.com/images/high/homer-simpson-tapping-computer-with-walking-stick-9vothdaqn75sieum.webp" width = 450>
-Soy estudiante de licenciatura en informática y desarrollador de software. Me considero un solucionador de problemas que le apasiona crear soluciones elegantes, impactantes y bien elaboradas para desafíos del mundo real
+	
+	Soy estudiante de licenciatura en informática y 
+	desarrollador de software. Me considero un 
+	solucionador de problemas que le apasiona crear
+	soluciones elegantes, impactantes y bien 
+	elaboradas para desafíos del mundo real
 </p>
 
 ### 📫 Redes Sociales
